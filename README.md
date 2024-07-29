@@ -2,26 +2,29 @@
 
 ## 1. Visión General
 
-**RVnB.bo y Suyana** colaborarán inicialmente en el desarrollo del ecoturismo comunitario en Bolivia. A mediano y largo plazo, RVnB Global ([visión](https://github.com/RVnB-bo/RVnB/blob/main/es/VISION.md)) será un donante y colaborador de Suyana en sus iniciativas alrededor del mundo, adaptando el modelo de ecoturismo comunitario a las comunidades en las que Suyana trabaja.
+**RVnB Bolivia y Suyana** colaborarán inicialmente en el desarrollo del ecoturismo comunitario en Bolivia. Suyana desde sus conocimientos y red de comunidades en las que ya trabaja, asegurando la recepción de turistas y visitantes; y RVnB diseñando estrategias e iniciativas para llevar turistas y visitantes a las comunidades.
+
+RVnB Bolivia es un proyecto sin fines de lucro para impulsar el ecoturismo en Bolivia en todas sus facetas, entre ellas el turismo comunitario, impulsando el viaje en el país por diversos medios: camping, autos casa, alojamiento en comunidades, etc. RVnB Global ([visión](https://github.com/RVnB-bo/RVnB/blob/main/es/VISION.md)) es un futuro proyecto enfocado en el nicho de ecoturismo aventura de alta gama. A mediano y largo plazo, RVnB Global será un donante y colaborador de Suyana en sus iniciativas alrededor del mundo, adaptando el modelo de ecoturismo comunitario a las comunidades en las que Suyana trabaja.
 
 ## 2. Objetivos a Corto Plazo (Bolivia)
 
 ### 1. Desarrollo del Ecoturismo Comunitario
-- **Colaboración con Suyana:** Suyana será el aliado principal en el desarrollo del ecoturismo comunitario en Bolivia. Se trabajará conjuntamente para identificar y acondicionar comunidades como destinos de ecoturismo.
-- **RVnB.bo:** Además del ecoturismo comunitario, RVnB.bo se enfocará en promover otros destinos turísticos tradicionales, ciudades y poblaciones mayores en Bolivia, con diferentes aliados estratégicos.
+- **Colaboración con Suyana:** Suyana será el aliado principal en el desarrollo del ecoturismo comunitario en Bolivia. Se trabajará conjuntamente para identificar y acondicionar comunidades como destinos de ecoturismo. Se considerará la posibilidad de integrar a otros colaboradores al proyecto, tales como grupos de ciclistas, montañismo, etc.
+- **RVnB Bolivia:** Además del ecoturismo comunitario, RVnB Bolivia se enfocará en promover otros destinos turísticos tradicionales, ciudades y poblaciones mayores en Bolivia, con diferentes aliados estratégicos.
 
 ### 2. Pilotos Iniciales con Grupos de MTB
-- **Flexibilidad y Entusiasmo:** Convocar a grupos de MTB para las visitas piloto, aprovechando su flexibilidad y entusiasmo por la iniciativa. Estos grupos existen en todos los puntos del país y pueden ser contactados según la región.
+- **Flexibilidad y Entusiasmo:** Convocar a grupos de MTB (ciclistas de montaña) para las visitas piloto, aprovechando su entusiasmo por la iniciativa y visitas a nuevos destinos, y su flexibilidad en cuanto a prestaciones y comodidades. Estos grupos existen en todos los puntos del país y pueden ser contactados según la región en la que se organice un tour.
 - **Pruebas en Terreno:** Realizar pruebas en terreno con estos grupos para evaluar la infraestructura y la experiencia turística en las comunidades seleccionadas.
 
 ### 3. Roles y Responsabilidades
-- **RVnB.bo:** Enfocarse en la experiencia del turista (local y extranjero), desarrollar estrategias de marketing y logística para llevar turistas a las comunidades seleccionadas.
+- **RVnB Bolivia:** Enfocarse en la experiencia del turista (local y extranjero), desarrollar estrategias de marketing y logística para llevar turistas a las comunidades seleccionadas.
 - **Suyana:** Trabajar en la preparación y acondicionamiento de las comunidades receptoras, asegurando que estén listas para recibir turistas de manera sostenible y beneficiosa para todos.
 
 ## 3. Requisitos para la Colaboración
 
 Para identificar y trabajar con nuevas comunidades, necesitamos conocer los requisitos y criterios de Suyana para “entrar” en una nueva comunidad. Algunos aspectos a considerar podrían ser:
 
+- **Ubicación Geográfica:** Identificando puntos estratégicos para la elaboración de rutas.
 - **Evaluación de Necesidades:** Análisis inicial de las necesidades de la comunidad y su potencial para el ecoturismo.
 - **Participación Comunitaria:** Nivel de interés y participación de la comunidad en el proyecto.
 - **Infraestructura Básica:** Evaluación de la infraestructura existente y necesidades de mejoras.
@@ -31,7 +34,7 @@ Para identificar y trabajar con nuevas comunidades, necesitamos conocer los requ
 
 ### 1. Expansión de RVnB Global
 - **Donaciones y Colaboración:** RVnB Global se convertirá en uno de los donantes de Suyana, apoyando sus iniciativas globales.
-- **Adaptación del Modelo:** Trabajar para adaptar el modelo de ecoturismo comunitario de RVnB en las comunidades internacionales donde Suyana tenga proyectos sociales.
+- **Adaptación del Modelo:** Trabajar para adaptar el modelo de ecoturismo comunitario desarrollado en el proyecto a comunidades internacionales donde Suyana tenga proyectos sociales, siendo el Perú la expansión más probable.
 
 ### 2. Establecimiento de RVnB Locales
 - **Presencia Internacional:** Crear RVnB locales en países donde Suyana opera, promoviendo el ecoturismo comunitario y apoyando las comunidades locales.
@@ -65,11 +68,11 @@ Las comunidades podrán poner una lista de aportes sugeridos para cada prestaci�
 ### Mejoras en Orden de Prioridad/Facilidad de Implementación:
 1. **Básicos:**
    - Lugar seguro de camping
-   - Duchas calientes
    - Primeros auxilios
+   - Duchas calientes
 2. **Alimentación:**
    - Productos locales (frutas, vegetales, etc.)
-   - Desayuno, meriendas y cena (probablemente para almuerzos los turistas estén visitando alrededores o pedaleando)
+   - Desayuno, meriendas y cena (probablemente para almuerzos los turistas estén visitando alrededores)
 3. **Tours y actividades de confraternización**
 4. **Comodidades:**
    - Puntos de electricidad disponibles
@@ -83,7 +86,7 @@ Las comunidades podrán poner una lista de aportes sugeridos para cada prestaci�
 
 Además de definir los aportes sugeridos, las comunidades podrán tener una lista de donaciones o ayudas que necesitan. Al organizar tours MTB u otras actividades mayores, se trabajará también por conseguir las donaciones.
 
-## 9. MTB Piloto
+## 9. Tour Piloto
 
 ### Recomendaciones para el MTB Piloto:
 
@@ -92,14 +95,14 @@ Además de definir los aportes sugeridos, las comunidades podrán tener una list
    - Tours de dos días son muy factibles cualquier fin de semana.
 
 2. **Distancias y Ritmo:**
-   - La distancia entre comunidades a visitar no debe exceder los 60km en terrenos accidentados (1000mts de subida total), ya que el ritmo promedio es de 10km/h en modo paseo disfrutando y sacando fotos.
+   - La distancia entre comunidades a visitar no debe exceder los 60km en terrenos accidentados (1000mts de subida total), ya que el ritmo promedio de un ciclista es de 10km/h en modo paseo disfrutando y sacando fotos.
    - Para terrenos en bajada o planos, no más de 100km.
-   - Calcular que el tiempo en ruta esté entre las 6 y 8 horas máximo, con paradas de refrigerios e hidratación.
+   - Calcular que el tiempo en ruta esté entre las 6 y 8 horas máximo, con paradas de refrigerios e hidratación incluidos.
 
 3. **Logística:**
    - **Auto escoba:** Para recoger a rezagados y accidentados, y para el retorno.
    - **Puntos de Salida:** Idealmente salir de poblaciones mayores o ciudades capitales para simplificar la logística.
-   - **Circuito Cerrado:** Diseñar un circuito cerrado para que se termine en el punto donde se inició, facilitando el inicio y final del tour (muchos ciclistas podrían llegar a ese punto y dejar su transporte en este punto inicial/final).
+   - **Circuito Cerrado:** Diseñar, en lo posible, un circuito cerrado para que se termine en el punto donde se inició, facilitando el inicio y final del tour (muchos ciclistas podrían llegar a ese punto y dejar su transporte en este punto inicial/final).
 
 4. **Colaboración con Grupos de MTB:**
    - Trabajar con grupos establecidos de MTB para coordinar detalles, buscar auspicios, etc.
@@ -116,13 +119,13 @@ Además de definir los aportes sugeridos, las comunidades podrán tener una list
 
 1. **Documento de Requisitos de Suyana:** Solicitar a Suyana una lista detallada de requisitos y criterios para la selección y entrada en nuevas comunidades.
 2. **Desarrollo del Plan de Acción:** Crear un plan de acción detallado para las primeras comunidades seleccionadas, incluyendo roles específicos, cronograma y recursos necesarios.
-3. **Establecimiento de GitHub:** Configurar el repositorio en GitHub para la colaboración abierta y comenzar a documentar los avances del proyecto.
+3. **Establecimiento de GitHub:** Configurar el repositorio en GitHub para la colaboración abierta y comenzar a documentar los avances del proyecto. Capacitar al equipo de Suyana.
 
-### Sugerencias Adicionales
+### Medidas Adicionales
 
 1. **Capacitación Comunitaria:** Desarrollar programas de capacitación para las comunidades en hospitalidad, gestión de recursos turísticos y primeros auxilios.
 2. **Evaluación de Impacto:** Implementar un sistema de evaluación de impacto para medir los beneficios económicos, sociales y ambientales del ecoturismo en las comunidades.
-3. **Alianzas Estratégicas:** Buscar alianzas con otras ONGs, instituciones académicas y empresas privadas que puedan aportar recursos, conocimientos y apoyo logístico.
+3. **Alianzas Estratégicas:** Buscar alianzas con otras ONGs, instituciones de actividades al aire libre, académicas y empresas privadas que puedan aportar recursos, conocimientos y apoyo logístico.
 4. **Promoción y Visibilidad:** Crear una estrategia de promoción y visibilidad que incluya medios tradicionales y digitales, aprovechando las redes sociales y plataformas de turismo para atraer visitantes.
 5. **Desarrollo Sostenible:** Asegurar que todas las iniciativas de ecoturismo se alineen con los principios de desarrollo sostenible, minimizando el impacto ambiental y maximizando los beneficios para las comunidades.
 
